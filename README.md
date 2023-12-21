@@ -1,6 +1,6 @@
-# ABS Panels App
+# WheelFrontier Panels App
 
-This app is designed for both the dealership and ABS admin to manage and interact with their customer and audiences.
+This app is designed for both the dealership and WheelFrontier admin to manage and interact with their customer and audiences.
 
 ## Overview
 
